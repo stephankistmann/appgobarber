@@ -1,0 +1,4 @@
+#Tue Aug 25 18:54:15 BRT 2020
+base.0=/home/stephangb/projetos/rocketseat/modulo3/appgobarber/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
